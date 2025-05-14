@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineering+Student;Full+Stack+Web+Developer;Spring+Boot+%7C+Angular+%7C+MySQL;Python+%7C+C+%7C+C%23+%7C+Ubuntu&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineering+Student;Full+Stack+Web+Developer;Spring+Boot+%7C+Angular+%7C+MySQL;Python+%7C+C+%7C+C%23+%7C&center=true&width=500&height=45">
 </p>
 
 ---
