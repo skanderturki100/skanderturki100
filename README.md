@@ -25,24 +25,8 @@
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,ubuntu,linux" />
 </p>
 
----
 
-## 🧩 Sample Diagrams & Graphics
 
-<table>
-  <tr>
-    <td><b>UML Class Diagram</b></td>
-    <td><b>Entity-Relationship Diagram (ERD)</b></td>
-  </tr>
-  <tr>
-    <td><img src="https://www.plantuml.com/plantuml/png/XP1FIi8m38Rl-HJHjXfT5mRrXOg2a6HXrHdqZ2EBXa7cCdvSUamKD6UlMCH3j4EwB3CggDYf2bE_HULAn61rHCxYipUHTmebptJxRGnhNoyTPJ4OC9Rhq1Xc4y2EwXbwz5AEBLuKdRtkJWeosLAcGkz_BzzT9drTb0qK00" width="400"/></td>
-    <td><img src="https://www.lucidchart.com/publicSegments/view/5f4a3b21-d5cc-4d2f-891e-bf66011dd2b6/image.png" width="400"/></td>
-  </tr>
-</table>
-
-> 🖌️ Tools used: draw.io, Lucidchart, PlantUML, Whimsical
-
----
 
 ## 🧠 What I'm Currently Learning
 
