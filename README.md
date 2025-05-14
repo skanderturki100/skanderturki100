@@ -1,53 +1,92 @@
-# 👋 Hi, I’m Skander Turki
-
-🎓 I’m a **Software Engineering Student** with a passion for building full-stack applications and exploring new technologies.  
-🚀 I enjoy solving complex problems using **Spring Boot**, **Angular**, and other modern tools.  
-🧠 Always eager to learn, grow, and collaborate on exciting tech projects.  
+<h1 align="center">Hi 👋, I'm Skander Turki</h1>
+<h3 align="center">Software Engineering Student | Full-Stack Developer</h3>
 
 ---
 
-## 💻 Technologies & Tools I Work With
-
-### 🖥️ Backend
-<p align="left">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=skanderturki100&label=Profile%20views&color=0e75b6&style=flat" alt="skanderturki100" />
 </p>
 
-### 🌐 Frontend
-<p align="left">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-</p>
-
-### 🛠️ Dev Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineering+Student;Full+Stack+Web+Developer;Spring+Boot+%7C+Angular+%7C+MySQL;Python+%7C+C+%7C+C%23+%7C+Ubuntu&center=true&width=500&height=45">
 </p>
 
 ---
 
-## 📊 Diagrams & Graphics
+## 🛠️ Technologies & Tools
 
-I use visual tools to improve project architecture and clarity.  
-Examples include:
+### 🚀 Languages & Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,python,c,cs,mysql,html,css,ts" />
+</p>
 
-- UML Class Diagrams
-- Entity-Relationship Diagrams (ERD)
-- Gantt Charts (for project planning)
-- Sequence Diagrams
-
-> 🛠 Tools used: **draw.io**, **Lucidchart**, **PlantUML**
+### 💻 Dev Tools & OS
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,ubuntu,linux" />
+</p>
 
 ---
 
-## 📫 How to Reach Me
-- 📧 Email: [skanderturki100@gmail.com](mailto:skanderturki100@gmail.com)
+## 🧩 Sample Diagrams & Graphics
+
+<table>
+  <tr>
+    <td><b>UML Class Diagram</b></td>
+    <td><b>Entity-Relationship Diagram (ERD)</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://www.plantuml.com/plantuml/png/XP1FIi8m38Rl-HJHjXfT5mRrXOg2a6HXrHdqZ2EBXa7cCdvSUamKD6UlMCH3j4EwB3CggDYf2bE_HULAn61rHCxYipUHTmebptJxRGnhNoyTPJ4OC9Rhq1Xc4y2EwXbwz5AEBLuKdRtkJWeosLAcGkz_BzzT9drTb0qK00" width="400"/></td>
+    <td><img src="https://www.lucidchart.com/publicSegments/view/5f4a3b21-d5cc-4d2f-891e-bf66011dd2b6/image.png" width="400"/></td>
+  </tr>
+</table>
+
+> 🖌️ Tools used: draw.io, Lucidchart, PlantUML, Whimsical
+
+---
+
+## 🧠 What I'm Currently Learning
+
+- Clean architecture with Spring Boot + Angular  
+- Microservices and API Gateways  
+- Advanced Git workflows  
+- UX Design and futuristic UI
+
+---
+
+## 📈 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=skanderturki100&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=skanderturki100&theme=radical&hide_border=true" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=skanderturki100&theme=redical" width="90%" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=skanderturki100&theme=darkhub&no-bg=true&no-frame=true" />
+</p>
+
+---
+
+## 🚧 Featured Projects *(add your own repos below)*
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [🏥 Health Dashboard](https://github.com/skanderturki100/health-dashboard) | Manage players, injuries, recovery plans & generate reports | Angular, Spring Boot, MySQL |
+| [🧠 AI Assistant](https://github.com/skanderturki100/ai-assistant) | Personal assistant powered by Python NLP tools | Python, FastAPI, spaCy |
+| [📊 PDF Generator](https://github.com/skanderturki100/pdf-generator) | Generate styled PDFs with player stats and recovery tracking | jsPDF, Spring Boot |
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: [skanderturki100@gmail.com](mailto:skanderturki100@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/skanderturki](https://www.linkedin.com/in/skanderturki)
 - 🌐 Portfolio: *(coming soon)*
 
@@ -55,10 +94,10 @@ Examples include:
 
 ## ⚡ Fun Fact
 
-> I love mixing code and creativity — from full-stack applications to visual dashboards and PDF generators! 🤖🎨
+> I don’t just write code — I craft **experiences** and design **intelligent systems** that can adapt and evolve 🚀
 
 ---
 
 <!---
-skanderturki100/skanderturki100 is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
+skanderturki100/skanderturki100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
